@@ -1,0 +1,7 @@
+
+GET http://localhost:7071/api/Profile
+
+###
+
+GET https://graph.microsoft.com/v1.0/me
+Authorization: Bearer eyJ0eXAiOiJKV1Qi
